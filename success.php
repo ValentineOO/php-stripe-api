@@ -4,11 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stripe Example</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+    <title>Stripe Success</title>
 </head>
 
 <body>
     <p>Thank you for your Payment!</p>
+    <a href="index.php"><button>Home Page</button></a>
 </body>
 
 </html>
